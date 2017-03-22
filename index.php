@@ -24,7 +24,7 @@ form{
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card-2">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="index.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="Main.html" class="w3-bar-item w3-button w3-padding-large">HOME</a>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
   </div>
 </div>
@@ -88,7 +88,6 @@ form{
   <i class="fa fa-pinterest-p w3-hover-text-red"></i>
   <i class="fa fa-twitter w3-hover-text-light-blue"></i>
   <i class="fa fa-linkedin w3-hover-text-indigo"></i>
-  <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
 <script>
