@@ -33,7 +33,7 @@ form{
 <div class="w3-content" style="max-width:2000px;margin-top:46px">
 
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <img src="Calcurrency.png" style="width:100%">
+    <img src="CalCurrency.png" style="width:100%">
     <p class="w3-opacity"><i>A Currency Converter Site</i></p>
     <p class="w3-justify">CalCurrency is a Currency Converter Website made with regards to the completion of our Project in Cloud Computing as Software as a Service. This is to be deployed on an internet hosting service, like Microsoft Azure, Heroku and etc. One of the best option to use in deploying my site is Heroku. The rates used to calculate by CalCurrency is updated as of March 20, 2017.
     </div>
