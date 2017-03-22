@@ -24,7 +24,7 @@ form{
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card-2">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="Main.html" class="w3-bar-item w3-button w3-padding-large">HOME</a>
+    <a href="index.php" class="w3-bar-item w3-button w3-padding-large">HOME</a>
   </div>
 </div>
 
